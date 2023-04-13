@@ -27,8 +27,8 @@ I am a Ph.D. candidate at [UC Berkeley](https://www.berkeley.edu){:target="_blan
 
 ## Representative Publications
 
-- H.T. Gu, X.Guo and X.Li, **Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation**, preprint, 2023
-- Z. Zong, X.Li and P.Sanaei, **Effects of nutrient depletion on issue growth in a tissue engineering scaffold pore**(https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
+- H.T. Gu, X.Guo and X.Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, preprint, 2023
+- Z. Zong, X.Li and P.Sanaei, [Effects of nutrient depletion on issue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
 
 ## Invited Talks
 
@@ -36,7 +36,7 @@ I am a Ph.D. candidate at [UC Berkeley](https://www.berkeley.edu){:target="_blan
 - Western Conference on Mathematical Finance, UC Berkeley, CA, 2023
 
 ## Teaching Experience
-** Graduate Student Instructor, UC Berkeley
+**Graduate Student Instructor, UC Berkeley**
 - IEOR 222: Financial Engineering, Spring 2023
 - IEOR 242/142: Application in Data Analysis, Spring 2022, Spring 2021
 

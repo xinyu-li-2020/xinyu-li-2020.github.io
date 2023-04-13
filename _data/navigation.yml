@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Coursework" 
-    url: /coursework/
+  # - title: "Coursework" 
+  #   url: /coursework/
 
-  - title: "Publicaitons"
-    url: /publications/
+  # - title: "Publicaitons"
+  #   url: /publications/
 
-  - title: "MSC Lab"
-    url: https://msc.berkeley.edu
+  # - title: "MSC Lab"
+  #   url: https://msc.berkeley.edu
 
   # - title: "Publications"
   #   url: /publications/

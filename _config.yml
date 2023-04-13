@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Changhao Wang"
+title                    : "Xinyu Li"
 title_separator          : "-"
-name                     : &name "Changhao Wang"
-description              : &description "Changhao Wang personal website"
-url                      : https://changhaowang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xinyu Li"
+description              : &description "Xinyu Li personal website"
+url                      : https://xinyu-li-2020.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "changhaowang/changhaowang.github.io"
+repository               : "xinyu-li-2020/xinyu-li-2020.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "dev" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : google199298bb90461db2.html
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changhao Wang<br>王昌浩"
-  avatar           : "Wang-Changhao.JPG"
-  bio              : "Ph.D. candidate<br> Major: Controls<br> UC Berkeley"
+  name             : "Xinyu Li<br>李新宇"
+  avatar           : "xinyuli.jpg"
+  bio              : "Ph.D. candidate<br> Major: IEOR<br> UC Berkeley"
   location         : "Berkeley, CA"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "changhaowang@berkeley.edu"
+  email            : "xinyu_li@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,12 +96,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "changhaowang"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "changhaowang0708"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
