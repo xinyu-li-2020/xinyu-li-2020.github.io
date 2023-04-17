@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic control and games, theoretical reinforcement learning and machine learning
+I am a Ph.D. candidate in Industrial Engineering & Operations Research at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic control and games, theoretical reinforcement learning and machine learning
 
 ## Education
 
