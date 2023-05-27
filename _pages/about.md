@@ -27,8 +27,9 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 
 ## Representative Publications
 
-- H.T. Gu, X.Guo and X.Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, preprint, 2023
-- Z. Zong, X.Li and P.Sanaei, [Effects of nutrient depletion on issue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
+- X.Guo, X.Li, C.Maheshwari, S.Sastry and M.Wu, [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/abs/2305.12553){:target="_blank"}, 2023
+- H.T. Gu, X.Guo and X.Li, [Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation](https://arxiv.org/abs/2105.08037){:target="_blank"}, 2023
+- Z.Zong, X.Li and P.Sanaei, [Effects of nutrient depletion on issue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
 
 ## Invited Talks
 
