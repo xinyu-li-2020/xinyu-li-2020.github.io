@@ -2,14 +2,14 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am Xinyu Li, a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests include stochastic control and games, theoretical reinforcement learning and machine learning"
+description: "I am Xinyu Li, a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests include stochastic control and games, theoretical reinforcement learning, and machine learning"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic control and games, theoretical reinforcement learning and machine learning
+I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic control and games, theoretical reinforcement learning, and machine learning
 
 ## Education
 
@@ -18,7 +18,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
     - Major: Industrial Engineering & Operation Research　　　　　　　 
     - Advisor: Prof. Xin Guo
 
-- **B.S. Mathematics, New York Univeristy (Shanghai, New York), 2016 - 2020**
+- **B.S. Mathematics, New York University (Shanghai, New York), 2016 - 2020**
 
 ## Work Experience
 - **Research Scientist Intern**, Amazon, Middle Mile Product & Technology (Santa Clara, CA)  May 2023 - Aug 2023 
@@ -26,13 +26,14 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 
 
 ## Representative Publications
-
-- X.Guo, X.Li, C.Maheshwari, S.Sastry and M.Wu, [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/abs/2305.12553){:target="_blank"}, 2023
-- H.T. Gu, X.Guo and X.Li, [Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation](https://arxiv.org/abs/2105.08037){:target="_blank"}, 2023
-- Z.Zong, X.Li and P.Sanaei, [Effects of nutrient depletion on issue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
+- X.Guo, X.Li, and R.Xu, [Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization](https://arxiv.org/abs/2311.14168){:target="_blank"}, 2023
+- X.Guo, X.Li, C.Maheshwari, S.Sastry, and M.Wu, [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/abs/2305.12553){:target="_blank"}, 2023
+- H.T. Gu, X.Guo, and X.Li, [Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation](https://arxiv.org/abs/2105.08037){:target="_blank"}, 2023
+- Z.Zong, X.Li, and P.Sanaei, [Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
 
 ## Invited Talks
-
+- 4th ACM International Conference on AI in Finance, NY, 2023
+- INFORMS 2023, Phoenix, AZ, 2023
 - Berkeley-Columbia Workshop, Columbia University, NY, 2023
 - Western Conference on Mathematical Finance, UC Berkeley, CA, 2023
 
