@@ -33,6 +33,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 
 ## Invited Talks
 - 4th ACM International Conference on AI in Finance, NY, 2023
+- 10th International Congress on Industrial and Applied Mathematics, Waseda University, Tokyo, Japan, 2023
 - INFORMS 2023, Phoenix, AZ, 2023
 - Berkeley-Columbia Workshop, Columbia University, NY, 2023
 - Western Conference on Mathematical Finance, UC Berkeley, CA, 2023
