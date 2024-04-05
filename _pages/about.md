@@ -28,10 +28,10 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 ## Representative Publications
 - X Guo, X Li, Y Zhang, [An α-potential game framework for N-player games](https://arxiv.org/abs/2403.16962){:target="_blank"}, 2024
 - H Gu, X Guo, TL Jacobs, P Kaminsky, X Li, [Transportation Market Rate Forecast Using Signature Transform](https://arxiv.org/abs/2401.04857){:target="_blank"}, 2024
-- X.Guo, X.Li, and R.Xu, [Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization](https://arxiv.org/abs/2311.14168){:target="_blank"}, 2023
-- X.Guo, X.Li, C.Maheshwari, S.Sastry, and M.Wu, [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/abs/2305.12553){:target="_blank"}, 2023
-- H. Gu, X.Guo, and X.Li, [Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation](https://arxiv.org/abs/2105.08037){:target="_blank"}, 2023
-- Z.Zong, X.Li, and P.Sanaei, [Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
+- X Guo, X Li, and R Xu, [Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization](https://arxiv.org/abs/2311.14168){:target="_blank"}, 2023
+- X Guo, X Li, C Maheshwari, S Sastry, and M Wu, [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/abs/2305.12553){:target="_blank"}, 2023
+- H Gu, X Guo, and X Li, [Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation](https://arxiv.org/abs/2105.08037){:target="_blank"}, 2023
+- Z Zong, X Li, and P Sanaei, [Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
 
 ## Invited Talks
 - 58th Annual Conference on Information Sciences and Systems, Princeton Univeristy, NJ, 2024
