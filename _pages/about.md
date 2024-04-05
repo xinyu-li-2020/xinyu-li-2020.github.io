@@ -34,7 +34,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 - Z Zong, X Li, and P Sanaei, [Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
 
 ## Invited Talks
-- 58th Annual Conference on Information Sciences and Systems, Princeton Univeristy, NJ, 2024
+- 58th Annual Conference on Information Sciences and Systems, Princeton University, NJ, 2024
 - 4th ACM International Conference on AI in Finance, NY, 2023
 - 10th International Congress on Industrial and Applied Mathematics, Waseda University, Tokyo, Japan, 2023
 - INFORMS 2023, Phoenix, AZ, 2023
