@@ -17,6 +17,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 
     - Major: Industrial Engineering & Operation Research　　　　　　　 
     - Advisor: Prof. Xin Guo
+    - Master of Science in Industrial Engineering and Operations Research (Awarded: May 2021)
 
 - **B.S. Mathematics, New York University (Shanghai, New York), 2016 - 2020**
 
