@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Prof. Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic analysis, game theory, theoretical reinforcement learning, and machine learning
+I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic analysis, game theory, theoretical reinforcement learning, and machine learning
 
 ## Education
 
@@ -27,7 +27,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 
 
 ## Representative Publications
-- H Gu, X Guo, TL Jacobs, P Kaminsky, X Li, [Transportation Market Rate Forecast Using Signature Transform](https://arxiv.org/abs/2401.04857){:target="_blank"}, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2024
+- H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, [Transportation Market Rate Forecast Using Signature Transform](https://arxiv.org/abs/2401.04857){:target="_blank"}, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2024
 - X Guo, X Li, Y Zhang, [An α-potential game framework for N-player games](https://arxiv.org/abs/2403.16962){:target="_blank"}, 2024
 - X Guo, X Li, and R Xu, [Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization](https://arxiv.org/abs/2311.14168){:target="_blank"}, 2023
 - X Guo, X Li, C Maheshwari, S Sastry, and M Wu, [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/abs/2305.12553){:target="_blank"}, 2023
@@ -43,8 +43,8 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 - Western Conference on Mathematical Finance, UC Berkeley, CA, 2023
 
 ## Recent Honors & Awards
-- Berkeley Marshall-Oliver-Rosenberger Fellowship, 2024.
-- Berkeley IEOR First Year Fellowship, 2020.
+- Berkeley Marshall-Oliver-Rosenberger Fellowship, 2024
+- Berkeley IEOR First Year Fellowship, 2020
 
 
 ## Teaching Experience
