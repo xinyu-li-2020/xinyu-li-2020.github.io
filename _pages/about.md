@@ -35,9 +35,12 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 - Z Zong, X Li, and P Sanaei, [Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
 
 ## Invited Talks
+-  2024 Joint Statistical Meetings, Portland, OR, 2024
+- Banff International Station, Canada, 2024 (Online)
+- Cyber Risk and Insurance France-Berkeley Conference, UC Berkeley, CA, 2024
 - 58th Annual Conference on Information Sciences and Systems, Princeton University, NJ, 2024
 - 4th ACM International Conference on AI in Finance, NY, 2023
-- 10th International Congress on Industrial and Applied Mathematics, Waseda University, Tokyo, Japan, 2023
+- 10th International Congress on Industrial and Applied Mathematics, Waseda University, Tokyo, Japan, 2023 (Online)
 - INFORMS 2023, Phoenix, AZ, 2023
 - Berkeley-Columbia Workshop, Columbia University, NY, 2023
 - Western Conference on Mathematical Finance, UC Berkeley, CA, 2023
