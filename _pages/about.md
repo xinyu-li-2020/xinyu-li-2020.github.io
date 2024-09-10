@@ -28,6 +28,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 
 ## Representative Publications
 - H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, [Transportation Market Rate Forecast Using Signature Transform](https://arxiv.org/abs/2401.04857){:target="_blank"}, ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2024
+
  Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research){:target="_blank"}
 - X Guo, X Li, Y Zhang, [An α-potential game framework for N-player games](https://arxiv.org/abs/2403.16962){:target="_blank"}, 2024
 - X Guo, X Li, and R Xu, [Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization](https://arxiv.org/abs/2311.14168){:target="_blank"}, 2023
