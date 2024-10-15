@@ -38,7 +38,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 ## Invited Talks & Poster Sessions
 - INFORMS 2024, Seattle, WA, 2024
 - DIMACS 2024 Workshop on Forecasting, Rutgers University, NJ, 2024
--  2024 Joint Statistical Meetings, Portland, OR, 2024
+-  Joint Statistical Meetings, Portland, OR, 2024
 - Banff International Station, Canada, 2024 (Online)
 - Cyber Risk and Insurance France-Berkeley Conference, UC Berkeley, CA, 2024
 - 58th Annual Conference on Information Sciences and Systems, Princeton University, NJ, 2024
