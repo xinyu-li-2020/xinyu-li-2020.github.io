@@ -35,7 +35,9 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 - H Gu, X Guo, and X Li, [Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation](https://arxiv.org/abs/2105.08037){:target="_blank"}, 2023
 - Z Zong, X Li, and P Sanaei, [Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, Physics of Fluids, 2021
 
-## Invited Talks
+## Invited Talks & Poster Sessions
+- INFORMS 2024, Seattle, WA, 2024
+- DIMACS 2024 Workshop on Forecasting, Rutgers University, NJ, 2024
 -  2024 Joint Statistical Meetings, Portland, OR, 2024
 - Banff International Station, Canada, 2024 (Online)
 - Cyber Risk and Insurance France-Berkeley Conference, UC Berkeley, CA, 2024
