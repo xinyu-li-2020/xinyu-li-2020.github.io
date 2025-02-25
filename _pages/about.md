@@ -2,14 +2,19 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am Xinyu Li, a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests include stochastic control and games, theoretical reinforcement learning, and machine learning"
+description: "I am Xinyu Li, a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests include stochastic control and games, theoretical reinforcement learning, and machine learning."
+
+
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic analysis, game theory, theoretical reinforcement learning, and machine learning
+I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. My primary research interests include stochastic analysis, game theory, theoretical reinforcement learning, and machine learning.
+
+Starting in September 2025, I will join the Mathematics Department at Oxford University as a postdoctoral researcher.
+
 
 ## Education
 
@@ -55,6 +60,7 @@ I am a Ph.D. candidate in [Industrial Engineering & Operations Research](https:/
 
 ## Teaching Experience
 **Graduate Student Instructor, UC Berkeley**
+- IEOR 221: Introduction to Financial Engineering, Spring 2025
 - IEOR 221: Introduction to Financial Engineering, Spring 2024
 - IEOR 222: Financial Engineering Systems I, Spring 2023
 - IEOR 242/142: Application in Data Analysis, Spring 2022, Spring 2021
