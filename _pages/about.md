@@ -18,7 +18,7 @@ Starting in September 2025, I will join the Mathematics Department at Oxford Uni
 
 ## Education
 
-- **Ph.D. Industrial Engineering & Operation Research, UC Berkeley (Berkeley, CA), 2020 - 2025 (Expected)**
+- **Ph.D. Industrial Engineering & Operation Research, UC Berkeley (Berkeley, CA), 2020 - 2025**
 
     - Major: Industrial Engineering & Operation Research　　　　　　　 
     - Advisor: Prof. Xin Guo
@@ -31,16 +31,19 @@ Starting in September 2025, I will join the Mathematics Department at Oxford Uni
 - **Research Scientist Intern**, Amazon, Middle Mile Product & Technology (Santa Clara, CA)  May 2022 - December 2022
 
 
+
 ## Publications
-- X Guo, X Li, Y Zhang, Distributed games with jumps: an α-potential game Approach, preprint, 2025
-- X Guo, X Li, Y Zhang, An α-potential game framework for N-player games, *SIAM Journal on Control and Optimization*, forthcoming, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"}
-- X Guo, X Li, C Maheshwari, S Sastry, and M Wu, Markov α-Potential Games, *IEEE Transactions and Control*, 2025 [arXiv] (https://arxiv.org/abs/2305.12553){:target="_blank"} [Journal](https://ieeexplore.ieee.org/abstract/document/11080281?casa_token=h4b9AKBA5b4AAAAA:7EbMEZJ58kASxqhsAPNQLw2iBpExE3kHzB_pcM3HgwTKdYGQ6aJF3HPV6YO0Fq8bFrS7AKy-){:target="_blank"}
-- X Guo, X Li, and R Xu, [Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization](https://arxiv.org/abs/2311.14168){:target="_blank"}, Revision at *SIAM Journal on Control and Optimization*, 2025
-- H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform, *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 2024 [[conference]](https://dl.acm.org/doi/abs/10.1145/3637528.3671637){:target="_blank"} <br>
+- X Li, An α-Potential Game Framework for Non-Cooperative Dynamic Games: Theory and Algorithms, 2025. University of California, Berkeley, PhD dissertation [[pdf]](/files/UC_Berkeley_Thesis.pdf)
+- X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, preprint, 2025
+- X Guo, X Li, Y Zhang, An α-Potential Game Framework for N-player Games, *SIAM Journal on Control and Optimization*, forthcoming, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"}
+- X Guo, X Li, C Maheshwari, S Sastry, and M Wu, Markov α-Potential Games, *IEEE Transactions and Control*, 2025 
+[[arXiv]](https://arxiv.org/abs/2305.12553){:target="_blank"} [[Journal]](https://ieeexplore.ieee.org/abstract/document/11080281?casa_token=h4b9AKBA5b4AAAAA:7EbMEZJ58kASxqhsAPNQLw2iBpExE3kHzB_pcM3HgwTKdYGQ6aJF3HPV6YO0Fq8bFrS7AKy-){:target="_blank"}
+- X Guo, X Li, and R Xu, Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization, Revision at *SIAM Journal on Control and Optimization*, 2025 [[arXiv]](https://arxiv.org/abs/2311.14168){:target="_blank"}
+- H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform, *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, 2024 [[Conference Version]](https://dl.acm.org/doi/abs/10.1145/3637528.3671637){:target="_blank"} <br>
  Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research){:target="_blank"} <br>
  *INFORMS Journal of Applied Analytics*, 2025 [[arXiv]](https://arxiv.org/abs/2401.04857){:target="_blank"} 
-- H Gu, X Guo, and X Li, [Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation](https://arxiv.org/abs/2105.08037){:target="_blank"}, Revision at *Applied Probability Journals*, 2025
-- Z Zong, X Li, and P Sanaei, [Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}, *Physics of Fluids*, 2021
+- H Gu, X Guo, and X Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, Revision at *Applied Probability Journals*, 2025 [[arXiv]](https://arxiv.org/abs/2105.08037){:target="_blank"}
+- Z Zong, X Li, and P Sanaei, Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore, *Physics of Fluids*, 2021 [Journal](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}
 
 ## Invited Talks & Poster Sessions
 - SIAM Conference on Financial Mathematics and Engineering (FM25), Miami, FL, 2025

@@ -1,4 +1,4 @@
-# Changhao Wang Personal Website
+# Xinyu Li Personal Website
 
 ## Instructions
 - change contents in the ```page``` folder
@@ -6,4 +6,4 @@
 - change the footer in the ```includes``` folder ```footer.html```
 - add images in the ```images``` folder
 
-[changhaowang.github.io](https://changhaowang.github.io)
+[xinyu-li-2020.github.io](https://xinyu-li-2020.github.io)
