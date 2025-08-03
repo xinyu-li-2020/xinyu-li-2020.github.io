@@ -43,7 +43,7 @@ Starting in September 2025, I will join the Mathematics Department at Oxford Uni
  Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research){:target="_blank"} <br>
  *INFORMS Journal of Applied Analytics*, 2025 [[arXiv]](https://arxiv.org/abs/2401.04857){:target="_blank"} 
 - H Gu, X Guo, and X Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, Revision at *Applied Probability Journals*, 2025 [[arXiv]](https://arxiv.org/abs/2105.08037){:target="_blank"}
-- Z Zong, X Li, and P Sanaei, Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore, *Physics of Fluids*, 2021 [Journal](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}
+- Z Zong, X Li, and P Sanaei, Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore, *Physics of Fluids*, 2021 [[Journal]](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}
 
 ## Invited Talks & Poster Sessions
 - SIAM Conference on Financial Mathematics and Engineering (FM25), Miami, FL, 2025
