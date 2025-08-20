@@ -35,7 +35,7 @@ Starting in September 2025, I will join the Mathematics Department at Oxford Uni
 ## Publications
 - X Li, An α-Potential Game Framework for Non-Cooperative Dynamic Games: Theory and Algorithms, 2025. University of California, Berkeley, PhD dissertation [[pdf]](/files/UC_Berkeley_Thesis.pdf) 
 - X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, preprint, 2025 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
-- X Guo, X Li, Y Zhang, An α-Potential Game Framework for N-player Games, *SIAM Journal on Control and Optimization*, forthcoming, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"}
+- X Guo, X Li, Y Zhang, An α-Potential Game Framework for N-player Games, *SIAM Journal on Control and Optimization*, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/full/10.1137/24M1707316){:target="_blank"}
 - X Guo, X Li, C Maheshwari, S Sastry, and M Wu, Markov α-Potential Games, *IEEE Transactions and Control*, 2025 
 [[arXiv]](https://arxiv.org/abs/2305.12553){:target="_blank"} [[Journal]](https://ieeexplore.ieee.org/abstract/document/11080281?casa_token=h4b9AKBA5b4AAAAA:7EbMEZJ58kASxqhsAPNQLw2iBpExE3kHzB_pcM3HgwTKdYGQ6aJF3HPV6YO0Fq8bFrS7AKy-){:target="_blank"}
 - X Guo, X Li, and R Xu, Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization, Revision at *SIAM Journal on Control and Optimization*, 2025 [[arXiv]](https://arxiv.org/abs/2311.14168){:target="_blank"}
