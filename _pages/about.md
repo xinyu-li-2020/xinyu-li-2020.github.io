@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford.
-I will complete my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}.
+I will complete my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}.
 
 My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning.
 
