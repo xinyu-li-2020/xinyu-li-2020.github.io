@@ -2,7 +2,8 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am Xinyu Li, a Ph.D. candidate in Industrial Engineering & Operations Research at UC Berkeley. My primary research interests include stochastic control and games, theoretical reinforcement learning, and machine learning."
+description: "I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford. I completed my Ph.D. in IEOR at UC Berkeley in Summer 2025. My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning.
+"
 
 
 author_profile: true
@@ -10,8 +11,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford.
-I will complete my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}.
+I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford, advised by [Professor Christoph Reisinger](https://people.maths.ox.ac.uk/reisinge/){:target="_blank"}, and a member of the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"}.
+
+I completed my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}.
 
 My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning.
 
