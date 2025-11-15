@@ -18,17 +18,13 @@ My research interests are at the intersection of stochastic control, reinforceme
 More specifically, my research tries to address the following challenges:
 
 - **Curse of Many Agents in Stochastic Dynamic Systems:**  
-  Many systems are inherently stochastic and dynamic, and involve multiple agents that interact with each other.  
-  To address this, we develop a *game-theoretic framework* called `α-potential games`, employing *stochastic control* approaches and designing *multi-agent reinforcement learning* (MARL) algorithms for equilibrium analysis and policy learning.
+  Many systems are inherently stochastic and dynamic, and involve multiple agents that interact with each other. To address this, we develop a *game-theoretic framework* called **α-potential games**, employing *stochastic control* approaches and designing *multi-agent reinforcement learning* (MARL) algorithms for equilibrium analysis and policy learning.
 
 - **Lack of Generalizability and Robustness:**  
-  Learned policies and models may fail to generalize to new tasks or withstand adversarial perturbations.  
-  Our work studies *transfer learning in reinforcement learning (RL)* to enable efficient knowledge transfer across related tasks.  
-  In parallel, we study *machine learning (ML) with adversarial attacks* to investigate the robustness and model stability.
+  Learned policies and models may fail to generalize to new tasks or withstand adversarial perturbations. Our work studies *transfer learning in reinforcement learning (RL)* to enable efficient knowledge transfer across related tasks. In parallel, we study *machine learning (ML) with adversarial attacks* to investigate the robustness and model stability.
 
 - **Inefficient Feature Identification in Data Streams:**  
-  Decision-making in high-dimensional systems with limited data remains a major challenge.  
-  We address this by exploring *rough path methods* to extract features from data streams, combining them with ML models for improved prediction and decision-making.
+  Decision-making in high-dimensional systems with limited data remains a major challenge. We address this by exploring *rough path methods* to extract features from data streams, combining them with ML models for improved prediction and decision-making.
 
 Please find my [[CV]](/files/CV__Li__Xinyu_Nov.pdf) here.
 
@@ -36,7 +32,7 @@ Office:  S3.20 Andrew Wiles Building, Woodstock Rd, Oxford, UK, OX2 6GG
 
 Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
-Oxford Univerisity website: [[]](https://www.maths.ox.ac.uk/people/xinyu.li){:target="_blank"} 
+Oxford Univerisity [[website]](https://www.maths.ox.ac.uk/people/xinyu.li){:target="_blank"} 
 
 
 ## Education
