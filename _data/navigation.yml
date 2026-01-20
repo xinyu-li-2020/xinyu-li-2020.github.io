@@ -13,15 +13,18 @@ main:
 
   # - title: "MSC Lab"
   #   url: https://msc.berkeley.edu
-
-  - title: "Services"
-    url: /#service
-
   - title: "Talks"
-    url: /#talks    
+    url: /#talks   
+
+
+ 
 
   - title: "Teaching"
     url: /#teaching   
+
+        
+  - title: "Services"
+    url: /#service
     
   # - title: "Portfolio"
   #   url: /portfolio/

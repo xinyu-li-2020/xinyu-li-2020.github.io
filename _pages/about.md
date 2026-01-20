@@ -122,6 +122,4 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 ### Organizer
 - Co-organizer of the workshop *Reinforcement Learning for Science: Discovery and Automation*  
 at the Isaac Newton Institute Satellite Program (March 2026)
-<!-- 
-### Service
-- Member, Erlangen AI Hub Equity, Diversity, and Inclusion (EDI) Committee -->
+
