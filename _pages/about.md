@@ -64,6 +64,10 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 
+## Recent Honors & Awards
+- Finalist, INFORMS Daniel H. Wagner Prize for Excellence in the Practice of Advanced Analytics and Operations Research, 2024
+- Berkeley Marshall-Oliver-Rosenberger Fellowship, 2024
+
 
 ## Talks {#talks}
 - Stochastic Finance Seminar, The University of Warwick, Coventry, UK, 2025
@@ -121,7 +125,15 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 - NeurIPS 2025 GenAI in Finance Workshop  
 
 
+
 ### Organizer
 - Co-organizer of the workshop *Reinforcement Learning for Science: Discovery and Automation*  
 at the Isaac Newton Institute Satellite Program (March 2026)
+
+
+
+### Industrial Experience
+- **Research Scientist Intern**, Amazon, Middle Mile Product & Technology (Santa Clara, CA)  May 2023 - Aug 2023 
+- **Research Scientist Intern**, Amazon, Middle Mile Product & Technology (Santa Clara, CA)  May 2022 - December 2022
+
 
