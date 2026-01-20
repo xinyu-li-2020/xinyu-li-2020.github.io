@@ -34,7 +34,7 @@ Please find my [[CV]](/files/CV.pdf) here.
 
 Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
-My Oxford profile: [website](https://www.maths.ox.ac.uk/people/xinyu.li){:target="_blank"}
+<!-- My Oxford profile: [website](https://www.maths.ox.ac.uk/people/xinyu.li){:target="_blank"} -->
 
 
 
