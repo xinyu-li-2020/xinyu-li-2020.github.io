@@ -14,14 +14,14 @@ main:
   # - title: "MSC Lab"
   #   url: https://msc.berkeley.edu
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Services"
+    url: /#service
 
   - title: "Talks"
-    url: /talks/    
+    url: /#talks    
 
-  - title: "Teaching and Service"
-    url: /teaching/    
+  - title: "Teaching"
+    url: /#teaching   
     
   # - title: "Portfolio"
   #   url: /portfolio/
