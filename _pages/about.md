@@ -64,7 +64,7 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 
-## Recent Honors & Awards
+## Recent Honors & Awards {#awards}
 - Finalist, INFORMS Daniel H. Wagner Prize for Excellence in the Practice of Advanced Analytics and Operations Research, 2024
 - Berkeley Marshall-Oliver-Rosenberger Fellowship, 2024
 

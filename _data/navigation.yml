@@ -8,8 +8,8 @@ main:
   # - title: "Coursework" 
   #   url: /coursework/
 
-  # - title: "Publicaitons"
-  #   url: /publications/
+  - title: "Awards"
+    url: /#awards
 
   # - title: "MSC Lab"
   #   url: https://msc.berkeley.edu
