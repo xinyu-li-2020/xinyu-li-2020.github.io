@@ -26,7 +26,7 @@ More specifically, my research tries to address the following challenges:
 - **Inefficient Feature Identification in Data Streams:**  
   Decision-making in high-dimensional systems with limited data remains a major challenge. We address this by exploring *rough path methods* to extract features from data streams, combining them with ML models for improved prediction and decision-making.
 
-For more detailed research projects, please refer to the [Publications](/research/) tab.
+<!-- For more detailed research projects, please refer to the [Publications](/research/) tab. -->
 
 Please find my [[CV]](/files/CV__Li__Xinyu_Nov.pdf) here.
 
@@ -39,3 +39,23 @@ My Oxford profile: [website](https://www.maths.ox.ac.uk/people/xinyu.li){:target
 
 
 
+
+
+
+## Publications {#publications}
+- X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, preprint, Minor Revision at *Mathematical Finance*, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
+
+- X Guo, X Li, and R Xu, Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization, *SIAM Journal on Control and Optimization*, 2026 [[arXiv]](https://arxiv.org/abs/2311.14168){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/10.1137/23M1621071){:target="_blank"}
+
+- X Guo, X Li, Y Zhang, An α-Potential Game Framework for N-player Games, *SIAM Journal on Control and Optimization*, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/full/10.1137/24M1707316){:target="_blank"}
+
+- X Guo, X Li, C Maheshwari, S Sastry, and M Wu, Markov α-Potential Games, *IEEE Transactions and Control*, 2025 
+[[arXiv]](https://arxiv.org/abs/2305.12553){:target="_blank"} [[Journal]](https://ieeexplore.ieee.org/abstract/document/11080281?casa_token=h4b9AKBA5b4AAAAA:7EbMEZJ58kASxqhsAPNQLw2iBpExE3kHzB_pcM3HgwTKdYGQ6aJF3HPV6YO0Fq8bFrS7AKy-){:target="_blank"}
+
+- H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform, *KDD*, 2024 [[Conference Version]](https://dl.acm.org/doi/abs/10.1145/3637528.3671637){:target="_blank"}  
+ *INFORMS Journal of Applied Analytics*, 2025 [[Journal]](https://pubsonline.informs.org/doi/full/10.1287/inte.2025.0251){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2401.04857){:target="_blank"} <br>
+Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research){:target="_blank"} <br>
+
+- H Gu, X Guo, and X Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, Revision at *Applied Probability Journals*, 2025 [[arXiv]](https://arxiv.org/abs/2105.08037){:target="_blank"}
+
+- Z Zong, X Li, and P Sanaei, Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore, *Physics of Fluids*, 2021 [[Journal]](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}
