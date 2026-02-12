@@ -18,7 +18,7 @@ My research interests are at the intersection of stochastic control, reinforceme
 More specifically, my research tries to address the following challenges:
 
 - **Curse of Many Agents in Stochastic Dynamic Systems:**  
-  Many systems are inherently stochastic and dynamic, and involve multiple agents that interact with each other. To address this, we develop a *game-theoretic framework* called **α-potential games**, employing *stochastic control* approaches and designing *multi-agent reinforcement learning* (MARL) algorithms for equilibrium analysis and policy learning.
+Many systems are inherently stochastic and dynamic, and involve multiple agents that interact with each other. To address this, we develop a *game-theoretic framework* called **α-potential games**, employing *stochastic control* approaches and designing *multi-agent reinforcement learning* (MARL) algorithms for equilibrium analysis and policy learning.
 
 - **Lack of Generalizability and Robustness:**  
   Learned policies and models may fail to generalize to new tasks or withstand adversarial perturbations. Our work studies *transfer learning in reinforcement learning (RL)* to enable efficient knowledge transfer across related tasks. In parallel, we study *machine learning (ML) with adversarial attacks* to investigate the robustness and model stability.
@@ -37,8 +37,10 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 <!-- My Oxford profile: [website](https://www.maths.ox.ac.uk/people/xinyu.li){:target="_blank"} -->
 
 
+## News 
+- I am co-organizing Cambridge INI *Reinforcement Learning for Science: Discovery and Automation* on Mar19-20, the [registration](https://www.newton.ac.uk/event/sclw02/){:target="_blank"} is open now 
 
-
+- I am organizing the Erlangen AI Hub bi-weekly seminars, [check it out here](https://erlangenhub.ox.ac.uk/resources/seminars/){:target="_blank"} and our [Youtube](https://www.youtube.com/@ErlangenAIHub){:target="_blank"} Channel here
 
 
 
