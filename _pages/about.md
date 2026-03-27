@@ -70,6 +70,7 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 ## Talks {#talks}
+- Quantifying and Managing Uncertainty, Bielefeld, Germany, 2026
 - Stochastic Finance Seminar, The University of Warwick, Coventry, UK, 2025
 - PGMODAYS, EDF Lab Paris-Saclay, Palaiseau, France, 2025  
 - Bridging Stochastic Control and Reinforcement Learning: Theories and Applications, Newton Institute, Cambridge, UK, 2025  
