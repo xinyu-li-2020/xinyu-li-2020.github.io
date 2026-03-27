@@ -14,7 +14,7 @@ redirect_from:
 I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford, and a member of the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"}. 
 I completed my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. Prior to pursuing Ph.D., I earned a B.S. degree in  Mathematics at [New York University Shanghai](https://shanghai.nyu.edu){:target="_blank"} in 2020.
 
-My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning.
+My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning, with applications to mathematical finance.
 More specifically, my research tries to address the following challenges:
 
 - **Curse of Many Agents in Stochastic Dynamic Systems:**  
@@ -38,9 +38,7 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
 
 ## News 
-- I am co-organizing Cambridge INI *Reinforcement Learning for Science: Discovery and Automation* on Mar19-20, the [registration](https://www.newton.ac.uk/event/sclw02/){:target="_blank"} is open now 
-
-- I am organizing the Erlangen AI Hub bi-weekly seminars, [check it out here](https://erlangenhub.ox.ac.uk/resources/seminars/){:target="_blank"} and our [Youtube](https://www.youtube.com/@ErlangenAIHub){:target="_blank"} Channel here
+- I am organizing the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"} bi-weekly seminars, check out our [Youtube](https://www.youtube.com/@ErlangenAIHub){:target="_blank"} Channel here
 
 
 
@@ -129,7 +127,7 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 ### Organizer
-- Co-organizer of the workshop *Reinforcement Learning for Science: Discovery and Automation*  
+- Co-organizer of the workshop [*Reinforcement Learning for Science: Discovery and Automation*](https://www.newton.ac.uk/event/sclw02/){:target="_blank"} 
 at the Isaac Newton Institute Satellite Program (March 2026)
 
 
