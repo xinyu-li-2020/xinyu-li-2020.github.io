@@ -65,11 +65,13 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 ## Recent Honors & Awards {#awards}
+- Bachelier Finance Conference Travel Award, 2026 
 - Finalist, INFORMS Daniel H. Wagner Prize for Excellence in the Practice of Advanced Analytics and Operations Research, 2024
 - Berkeley Marshall-Oliver-Rosenberger Fellowship, 2024
 
 
 ## Talks {#talks}
+- Oxford-PKU Joint Conference on Quantitative Finance and Data Science, Beijing, China, 2026
 - Quantifying and Managing Uncertainty, Bielefeld, Germany, 2026
 - Stochastic Finance Seminar, The University of Warwick, Coventry, UK, 2025
 - PGMODAYS, EDF Lab Paris-Saclay, Palaiseau, France, 2025  
