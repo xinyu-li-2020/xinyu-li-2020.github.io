@@ -43,6 +43,8 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
 
 ## Publications {#publications}
+- X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, preprint, 2026 [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
+
 - X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, preprint, Minor Revision at *Mathematical Finance*, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
 
 - X Guo, X Li, and R Xu, Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization, *SIAM Journal on Control and Optimization*, 2026 [[arXiv]](https://arxiv.org/abs/2311.14168){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/10.1137/23M1621071){:target="_blank"}
