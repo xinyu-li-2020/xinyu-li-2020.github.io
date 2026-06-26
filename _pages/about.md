@@ -18,13 +18,15 @@ My research interests are at the intersection of stochastic control, reinforceme
 More specifically, my research tries to address the following challenges:
 
 - **Curse of Many Agents in Stochastic Dynamic Systems:**  
-Many systems are inherently stochastic and dynamic, and involve multiple agents that interact with each other. To address this, we develop a *game-theoretic framework* called **α-potential games**, employing *stochastic control* approaches and designing *multi-agent reinforcement learning* (MARL) algorithms for equilibrium analysis and policy learning.
+Many systems are inherently stochastic and dynamic, and involve multiple agents that interact with each other. To address this, we develop a *game-theoretic framework* called **α-potential games**, employing *stochastic control* approaches and designing *multi-agent reinforcement learning* (MARL) algorithms for equilibrium analysis and policy learning. We also study cooperative systems with **mean-field controls**, aiming to develop scalable algorithms to find the optimal controls.
+
+
+- **Non-Stationary and History-Dependent Decision-Making:**  
+Many decision-making problems are inherently history-dependent, which requires an efficient way to extract features from historical data and a control policy that can adapt to the history. We study the **signature transform** as a tool to extract features from historical data and combine it with Machine learning (ML) and Reinforcement learning (RL) models for improved prediction and decision-making. We also study path-dependent mean-field control problems and establish theoretical guarantees for the numerical schemes.
 
 - **Lack of Generalizability and Robustness:**  
-  Learned policies and models may fail to generalize to new tasks or withstand adversarial perturbations. Our work studies *transfer learning in reinforcement learning (RL)* to enable efficient knowledge transfer across related tasks. In parallel, we study *machine learning (ML) with adversarial attacks* to investigate the robustness and model stability.
+Learned policies and models may fail to generalize to new tasks or withstand adversarial perturbations. Our work studies transfer learning in reinforcement learning (RL) to enable efficient knowledge transfer across related tasks. In parallel, we study machine learning (ML) with adversarial attacks to investigate the robustness and model stability.
 
-- **Inefficient Feature Identification in Data Streams:**  
-  Decision-making in high-dimensional systems with limited data remains a major challenge. We address this by exploring *rough path methods* to extract features from data streams, combining them with ML models for improved prediction and decision-making.
 
 <!-- For more detailed research projects, please refer to the [Publications](/research/) tab. -->
 
@@ -43,6 +45,8 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
 
 ## Publications {#publications}
+- O Bokanowski, JF Chassagneux, X Li, C Reisinger, Numerical Approximation for Path-Dependent McKean–Vlasov Control with Non-Asymptotic Error Estimates, preprint, 2026 [[arXiv]](https://arxiv.org/pdf/2606.27181v1){:target="_blank"} 
+
 - X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, preprint, 2026 [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
 
 - X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, preprint, Minor Revision at *Mathematical Finance*, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
@@ -73,6 +77,9 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 ## Talks {#talks}
+- Stochastic Control and Reinforcement Learning, CIRM, Marseille, France, 2026
+- World Congress of the Bachelier Finance Society, Bologna, Italy, 2026
+- North British Probability Seminar, University of Edinburgh, Edinburgh, UK, 2026
 - Oxford-PKU Joint Conference on Quantitative Finance and Data Science, Beijing, China, 2026
 - Quantifying and Managing Uncertainty, Bielefeld, Germany, 2026
 - Stochastic Finance Seminar, The University of Warwick, Coventry, UK, 2025
@@ -132,8 +139,12 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 ### Organizer
-- Co-organizer of the workshop [*Reinforcement Learning for Science: Discovery and Automation*](https://www.newton.ac.uk/event/sclw02/){:target="_blank"} 
-at the Isaac Newton Institute Satellite Program (March 2026)
+- Co-organizer of the mini-symposium ``Data-Driven Approaches to Stochastic Control and Games (I) and (II)" at International Conference on Computational Finance, Oxford, UK (Sep 2026)
+- Co-organizer of the mini-symposium ``Connections Between Mean Field Control and Machine Learning" at SIAM Annual Meeting, Ohio, USA (July 2026)
+- Co-organizer of the workshop [*Reinforcement Learning for Science: Discovery and Automation*](https://www.newton.ac.uk/event/sclw02/){:target="_blank"} at the Isaac Newton Institute Satellite Program (March 2026)
+- Organizer the Erlangen AI Hub bi-weekly seminars (Jan 2026 - present)
+
+
 
 
 
