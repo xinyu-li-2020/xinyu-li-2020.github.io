@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford. I completed my Ph.D. in IEOR at UC Berkeley in Summer 2025. My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning.
+description: "I am a Departmental Lecturer in the Mathematical and Computational Finance Group at the University of Oxford. Before that, I completed my Ph.D. in IEOR at UC Berkeley in Summer 2025. My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning.
 "
 
 
@@ -11,10 +11,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford, and a member of the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"}. 
-I completed my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. Prior to pursuing Ph.D., I earned a B.S. degree in  Mathematics at [New York University Shanghai](https://shanghai.nyu.edu){:target="_blank"} in 2020.
+I am a Departmental Lecturer in the Mathematical and Computational Finance Group at the University of Oxford. Before that, I was a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford, and a member of the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"}. 
+I completed my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. Prior to pursuing Ph.D., I earned a B.S. degree in Mathematics at [New York University Shanghai](https://shanghai.nyu.edu){:target="_blank"} in 2020.
 
-My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning, with applications to mathematical finance.
+My research interests include game theory, stochastic control, and reinforcement learning, with applications to mathematical finance.
 More specifically, my research tries to address the following challenges:
 
 - **Curse of Many Agents in Stochastic Dynamic Systems:**  
