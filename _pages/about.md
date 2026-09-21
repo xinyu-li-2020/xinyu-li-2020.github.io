@@ -30,7 +30,7 @@ Learned policies and models may fail to generalize to new tasks or withstand adv
 
 <!-- For more detailed research projects, please refer to the [Publications](/research/) tab. -->
 
-Please find my [[CV]](/files/CV.pdf) here.
+Please find my [[CV]](/files/CV.pdf) here (last updated in September 2026).
 
 <!-- Office:  S3.20 Andrew Wiles Building, Woodstock Rd, Oxford, UK, OX2 6GG -->
 
@@ -39,8 +39,6 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 <!-- My Oxford profile: [website](https://www.maths.ox.ac.uk/people/xinyu.li){:target="_blank"} -->
 
 
-## News 
-- I am organizing the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"} bi-weekly seminars, check out our [Youtube](https://www.youtube.com/@ErlangenAIHub){:target="_blank"} Channel here
 
 
 
@@ -143,10 +141,11 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 ### Organizer
+- Co-organizer of the mini-symposium ``Machine Learning for Decision Making in Finance" at INFORMS Conference on Financial Engineering and Fintech, New Jersey, US (Nov 2026)
 - Co-organizer of the mini-symposium ``Data-Driven Approaches to Stochastic Control and Games (I) and (II)" at International Conference on Computational Finance, Oxford, UK (Sep 2026)
 - Co-organizer of the mini-symposium ``Connections Between Mean Field Control and Machine Learning" at SIAM Annual Meeting, Ohio, USA (July 2026)
 - Co-organizer of the workshop [*Reinforcement Learning for Science: Discovery and Automation*](https://www.newton.ac.uk/event/sclw02/){:target="_blank"} at the Isaac Newton Institute Satellite Program (March 2026)
-- Organizer the Erlangen AI Hub bi-weekly seminars (Jan 2026 - present)
+- Organizer the Erlangen AI Hub bi-weekly seminars (Jan 2026 - Aug 2026)
 
 
 
