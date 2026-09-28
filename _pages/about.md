@@ -11,7 +11,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Departmental Lecturer (Visiting Assistant Professor) in the Mathematical and Computational Finance Group at the University of Oxford, starting September 2026. Before that, I was a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford, and a member of the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"}. 
+I am a Departmental Lecturer in the Mathematical and Computational Finance Group at the University of Oxford, starting September 2026. Before that, I was a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford, and a member of the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"}. 
 I completed my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. Prior to pursuing Ph.D., I earned a B.S. degree in Mathematics at [New York University Shanghai](https://shanghai.nyu.edu){:target="_blank"} in 2020.
 
 My research interests include game theory, stochastic control, and reinforcement learning, with applications to mathematical finance.
@@ -45,7 +45,7 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 ## Publications {#publications}
 - O Bokanowski, JF Chassagneux, X Li, C Reisinger, Numerical Approximation for Path-Dependent McKean–Vlasov Control with Non-Asymptotic Error Estimates, preprint, 2026 [[arXiv]](https://arxiv.org/pdf/2606.27181v1){:target="_blank"} 
 
-- X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, preprint, 2026 [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
+- X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, Neurips, 2026 [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
 
 - X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, preprint, Minor Revision at *Mathematical Finance*, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
 
