@@ -23,9 +23,9 @@ Many systems are inherently stochastic and dynamic, and involve multiple agents 
 
 - **Non-Stationary and History-Dependent Decision-Making:**  
 Many decision-making problems are inherently history-dependent, which requires an efficient way to extract features from historical data and a control policy that can adapt to the history. We study the **signature transform** as a tool to extract features from historical data and combine it with Machine learning (ML) and Reinforcement learning (RL) models for improved prediction and decision-making. We also study path-dependent mean-field control problems and establish theoretical guarantees for the numerical schemes.
-
+<!-- 
 - **Lack of Generalizability and Robustness:**  
-Learned policies and models may fail to generalize to new tasks or withstand adversarial perturbations. Our work studies transfer learning in reinforcement learning (RL) to enable efficient knowledge transfer across related tasks. In parallel, we study machine learning (ML) with adversarial attacks to investigate the robustness and model stability.
+Learned policies and models may fail to generalize to new tasks or withstand adversarial perturbations. Our work studies transfer learning in reinforcement learning (RL) to enable efficient knowledge transfer across related tasks. In parallel, we study machine learning (ML) with adversarial attacks to investigate the robustness and model stability. -->
 
 
 <!-- For more detailed research projects, please refer to the [Publications](/research/) tab. -->
@@ -45,7 +45,7 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 ## Publications {#publications}
 - O Bokanowski, JF Chassagneux, X Li, C Reisinger, Numerical Approximation for Path-Dependent McKean–Vlasov Control with Non-Asymptotic Error Estimates, preprint, 2026 [[arXiv]](https://arxiv.org/pdf/2606.27181v1){:target="_blank"} 
 
-- X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, Neurips, 2026 [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
+- X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, Neurips, 2026 [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} [[neurips]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"}
 
 - X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, preprint, Minor Revision at *Mathematical Finance*, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
 
