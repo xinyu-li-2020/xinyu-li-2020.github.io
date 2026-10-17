@@ -75,6 +75,7 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 ## Talks {#talks}
+- Young Researcher Workshop, Cornell University, Ithaca, NY, 2026
 - Department of Systems Engineering and Engineering Management Seminar, The Chinese University of Hong Kong, HK, China, 2026
 - Applied Mathematics Seminar, The Hong Kong Polytechnic University, HK, China, 2026
 - Oxford-ETH Workshop, ETH Zurich, Zurich, Switzerland, 2026
