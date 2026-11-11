@@ -1,17 +1,13 @@
 ---
-
 permalink: /
 title: "About Me"
 excerpt: "About me"
-description: "I am a Departmental Lecturer in the Mathematical and Computational Finance Group at the University of Oxford. Before that, I completed my Ph.D. in IEOR at UC Berkeley in Summer 2025. My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning.
-"
-
-## author_profile: true
-
-redirect_from: 
-
-- /about/
-- /about.html
+description: "I am a Departmental Lecturer in the Mathematical and Computational Finance Group at the University of Oxford. Before that, I completed my Ph.D. in IEOR at UC Berkeley in Summer 2025. My research interests are at the intersection of stochastic control, reinforcement learning, game theory, and machine learning."
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
 I am a Departmental Lecturer in the Mathematical and Computational Finance Group at the University of Oxford, starting September 2026. Before that, I was a Postdoctoral Research Associate in the Department of Mathematics at the University of Oxford, and a member of the [Erlangen AI Hub](https://erlangenhub.ox.ac.uk){:target="_blank"}. 
 I completed my Ph.D. in [Industrial Engineering & Operations Research](https://ieor.berkeley.edu){:target="_blank"} at [UC Berkeley](https://www.berkeley.edu){:target="_blank"} in Summer 2025, advised by [Professor Xin Guo](https://xinguo.ieor.berkeley.edu/){:target="_blank"}. Prior to pursuing Ph.D., I earned a B.S. degree in Mathematics at [New York University Shanghai](https://shanghai.nyu.edu){:target="_blank"} in 2020.
@@ -95,11 +91,14 @@ Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizi
 
 
 
-## Teaching Experience {#teaching}
+## Teaching  {#teaching}
+
 ### Lecturer, University of Oxford
+
 - Quantitative Risk Management, Hilary Term (Spring) 2027
 
 ### Tutor, University of Oxford
+
 - Financial Derivatives, Michaelmas Term (Autumn) 2026
 
 
