@@ -38,7 +38,6 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 [[arXiv]](https://arxiv.org/abs/2305.12553){:target="_blank"} [[Journal]](https://ieeexplore.ieee.org/abstract/document/11080281?casa_token=h4b9AKBA5b4AAAAA:7EbMEZJ58kASxqhsAPNQLw2iBpExE3kHzB_pcM3HgwTKdYGQ6aJF3HPV6YO0Fq8bFrS7AKy-){:target="_blank"}
 - H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform, *KDD*, 2024 [[Conference Version]](https://dl.acm.org/doi/abs/10.1145/3637528.3671637){:target="_blank"}  
  *INFORMS Journal of Applied Analytics*, 2025 [[Journal]](https://pubsonline.informs.org/doi/full/10.1287/inte.2025.0251){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2401.04857){:target="_blank"}
-
 Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research){:target="_blank"}   
 
 - H Gu, X Guo, and X Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, Revision at *Applied Probability Journals*, 2025 [[arXiv]](https://arxiv.org/abs/2105.08037){:target="_blank"}
