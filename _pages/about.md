@@ -27,10 +27,12 @@ Please find my [[CV]](/files/CV.pdf) here (last updated in September 2026).
 Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
 ## Publications {#publications}
+- X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards: Regret Bound and Statistical Inference, [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
+
+A short version has been accepted by Neurips, 2026  [[neurips]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"}
 
 - O Bokanowski, JF Chassagneux, X Li, C Reisinger, Numerical Approximation for Path-Dependent McKean–Vlasov Control with Non-Asymptotic Error Estimates, preprint, 2026 [[arXiv]](https://arxiv.org/pdf/2606.27181v1){:target="_blank"} 
 - X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, *Mathematical Finance*, to appear, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
-- X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, Neurips, 2026 [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} [[neurips]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"}
 - X Guo, X Li, and R Xu, Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization, *SIAM Journal on Control and Optimization*, 2026 [[arXiv]](https://arxiv.org/abs/2311.14168){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/10.1137/23M1621071){:target="_blank"}
 - X Li, An α-Potential Game Framework for Non-Cooperative Dynamic Games: Theory and Algorithms, 2025. University of California, Berkeley, PhD dissertation [[pdf]](/files/UC_Berkeley_Thesis.pdf) 
 - X Guo, X Li, Y Zhang, An α-Potential Game Framework for N-player Games, *SIAM Journal on Control and Optimization*, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/full/10.1137/24M1707316){:target="_blank"}
