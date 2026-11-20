@@ -28,7 +28,7 @@ Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
 ## Publications {#publications}
 - X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards: Regret Bound and Statistical Inference, [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
-A short version has been accepted by Neurips, 2026  [[neurips]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"}
+  A short version has been accepted by Neurips, 2026  [[neurips]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"}
 
 - O Bokanowski, JF Chassagneux, X Li, C Reisinger, Numerical Approximation for Path-Dependent McKean–Vlasov Control with Non-Asymptotic Error Estimates, preprint, 2026 [[arXiv]](https://arxiv.org/pdf/2606.27181v1){:target="_blank"} 
 - X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, *Mathematical Finance*, to appear, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
