@@ -27,45 +27,45 @@ Please find my [[CV]](/files/CV.pdf) here (last updated in September 2026).
 Email: `xinyu.li@maths.ox.ac.uk`, `xinyu_li@berkeley.edu`
 
 ## News 
-I will give an online talk at [[Rough Path Interest Group]](https://datasig.ac.uk/events){:target="_blank"} on Dec 2. Thank you for invitation!
+- I will give an online talk at [*Rough Path Interest Group*](https://datasig.ac.uk/events){:target="_blank"} on Dec 2. Thank you for invitation!
 
-I am co-organizing Mathematical and Computational Finance seminars in the math department at Oxford University. Please check it out on our website [[here]](https://www.maths.ox.ac.uk/events/list/3144){:target="_blank"}
+- I am co-organizing Mathematical and Computational Finance seminars in the math department at Oxford University. Please check it out on our website [[here]](https://www.maths.ox.ac.uk/events/list/3144){:target="_blank"}
 
-Our paper on applying signature method to contextual bandit problem [[DisSigUCB]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"} has being accepted by Neurips 2026! 
+- Our paper on applying signature method to contextual bandit problem [DisSigUCB](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"} has being accepted by Neurips 2026! 
 
 ## Research {#research}
 
 ### Preprints 
-12\. X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards: Regret Bound and Statistical Inference, [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
+12. X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards: Regret Bound and Statistical Inference, [[arXiv]](https://arxiv.org/abs/2605.10313){:target="_blank"} 
 
-11\. O Bokanowski, JF Chassagneux, X Li, C Reisinger, Numerical Approximation for Path-Dependent McKean–Vlasov Control with Non-Asymptotic Error Estimates, preprint, 2026 [[arXiv]](https://arxiv.org/pdf/2606.27181v1){:target="_blank"} 
+11. O Bokanowski, JF Chassagneux, X Li, C Reisinger, Numerical Approximation for Path-Dependent McKean–Vlasov Control with Non-Asymptotic Error Estimates, preprint, 2026 [[arXiv]](https://arxiv.org/pdf/2606.27181v1){:target="_blank"} 
 
-10\. H Gu, X Guo, and X Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, Revision at *Applied Probability Journals*, 2025 [[arXiv]](https://arxiv.org/abs/2105.08037){:target="_blank"}
+10. H Gu, X Guo, and X Li, Adversarial Training for Gradient Descent: Analysis Through its Continuous-time Approximation, Revision at *Applied Probability Journals*, 2025 [[arXiv]](https://arxiv.org/abs/2105.08037){:target="_blank"}
 
 ### Conference Proceedings
 
-9\. X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, Neurips, 2026[[neurips]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"}
+9. X Guo, G He, X Li, Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards, Neurips, 2026[[neurips]](https://neurips.cc/virtual/2026/loc/atlanta/poster/154702){:target="_blank"}
 
-8\. H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform, *KDD*, 2024 [[Conference Version]](https://dl.acm.org/doi/abs/10.1145/3637528.3671637){:target="_blank"}  
+8. H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform, *KDD*, 2024 [[Conference Version]](https://dl.acm.org/doi/abs/10.1145/3637528.3671637){:target="_blank"}  
 
 ### Journal Publications
-7\. X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, *Mathematical Finance*, to appear, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
+7. X Guo, X Li, Y Zhang, Distributed Games with Jumps: an α-Potential Game Approach, *Mathematical Finance*, to appear, 2026 [[arXiv]](https://arxiv.org/abs/2508.01929){:target="_blank"}  [[code]](https://github.com/xinyucb/DeepPotentialGame){:target="_blank"} 
 
-6\. X Guo, X Li, and R Xu, Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization, *SIAM Journal on Control and Optimization*, 2026 [[arXiv]](https://arxiv.org/abs/2311.14168){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/10.1137/23M1621071){:target="_blank"}
+6. X Guo, X Li, and R Xu, Fast Policy Learning for Linear Quadratic Regulator with Entropy Regularization, *SIAM Journal on Control and Optimization*, 2026 [[arXiv]](https://arxiv.org/abs/2311.14168){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/10.1137/23M1621071){:target="_blank"}
 
-5\. X Li, An α-Potential Game Framework for Non-Cooperative Dynamic Games: Theory and Algorithms, 2025. University of California, Berkeley, PhD dissertation [[pdf]](/files/UC_Berkeley_Thesis.pdf) 
+5. X Li, An α-Potential Game Framework for Non-Cooperative Dynamic Games: Theory and Algorithms, 2025. University of California, Berkeley, PhD dissertation [[pdf]](/files/UC_Berkeley_Thesis.pdf) 
 
-4\. X Guo, X Li, Y Zhang, An α-Potential Game Framework for N-player Games, *SIAM Journal on Control and Optimization*, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/full/10.1137/24M1707316){:target="_blank"}
+4. X Guo, X Li, Y Zhang, An α-Potential Game Framework for N-player Games, *SIAM Journal on Control and Optimization*, 2025 [[arXiv]](https://arxiv.org/abs/2403.16962){:target="_blank"} [[Journal]](https://epubs.siam.org/doi/full/10.1137/24M1707316){:target="_blank"}
 
-3\. X Guo, X Li, C Maheshwari, S Sastry, and M Wu, Markov α-Potential Games, *IEEE Transactions and Control*, 2025 
+3. X Guo, X Li, C Maheshwari, S Sastry, and M Wu, Markov α-Potential Games, *IEEE Transactions and Control*, 2025 
 [[arXiv]](https://arxiv.org/abs/2305.12553){:target="_blank"} [[Journal]](https://ieeexplore.ieee.org/abstract/document/11080281?casa_token=h4b9AKBA5b4AAAAA:7EbMEZJ58kASxqhsAPNQLw2iBpExE3kHzB_pcM3HgwTKdYGQ6aJF3HPV6YO0Fq8bFrS7AKy-){:target="_blank"}
 
-2\. H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform,
+2. H Gu, X Guo, TL Jacobs, P Kaminsky, and X Li, Transportation Market Rate Forecast Using Signature Transform,
  *INFORMS Journal of Applied Analytics*, 2025 [[Journal]](https://pubsonline.informs.org/doi/full/10.1287/inte.2025.0251){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2401.04857){:target="_blank"}
 Finalist for the 2024 [Daniel H. Wagner Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research){:target="_blank"}   
 
 
-1\. Z Zong, X Li, and P Sanaei, Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore, *Physics of Fluids*, 2021 [[Journal]](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}
+1. Z Zong, X Li, and P Sanaei, Effects of nutrient depletion on tissue growth in a tissue engineering scaffold pore, *Physics of Fluids*, 2021 [[Journal]](https://aip.scitation.org/doi/10.1063/5.0071171){:target="_blank"}
 
 
 
